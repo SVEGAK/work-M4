@@ -1,12 +1,32 @@
 h1 {
-    background-color: aqua;
+    background: red;
 }
+
 .paragraph-1 {
-    background:  aqua;
-    border: 10px solid greenyellow;
-    font-size: 24pt;
-    border-radius: 5;
-    color: whitesmoke;
-    font-family: "fantasy";
-    margin-bottom: 60px;
+    background: blue;
+    font-size: 32pt;
+    color: green;
 }
+
+.paragraph-2 {
+    border: 10px solid yellow;
+    border-radius: 20px;
+    font-size: 24pt;
+    /* margin-bottom: 60px; */
+    /* margin-left: ;
+    margin-top: ;
+    margin-right: ; */
+    margin: 0px 0px 60px 0px;
+    /* padding-top: ;
+    padding-right: ;
+    padding-bottom: ;
+    padding-left: ; */
+    padding: 0px 0px 60px 20px;
+}
+
+.paragraph-3 {
+    font-weight: bold;
+    font-size: 22pt;
+    font-family: 'Courier New';
+}
+
