@@ -30,3 +30,13 @@ h1 {
     font-family: 'Courier New';
 }
 
+.paragraph-4 {
+    font-weight: bold;
+    font-size: 24pt;
+    font-family: 'Courier New';
+    font-style: italic;
+    text-align: center;
+    text-shadow: 0px 0px 10px 10px lightgreen;color:green;
+    
+    
+}
