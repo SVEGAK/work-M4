@@ -1,0 +1,12 @@
+h1 {
+    background-color: aqua;
+}
+.paragraph-1 {
+    background:  aqua;
+    border: 10px solid greenyellow;
+    font-size: 24pt;
+    border-radius: 5;
+    color: whitesmoke;
+    font-family: "fantasy";
+    margin-bottom: 60px;
+}
